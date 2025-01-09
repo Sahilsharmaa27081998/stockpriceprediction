@@ -1,0 +1,13 @@
+Stock_Price_Prediction/
+│
+├── data/
+│   └── stock_prices.csv   # Placeholder for dataset
+├── notebooks/
+│   └── stock_price_prediction.ipynb   # Jupyter Notebook
+├── scripts/
+│   ├── data_preprocessing.py          # Data preprocessing script
+│   ├── model_training.py              # Model training script
+│   ├── evaluation.py                  # Model evaluation script
+├── README.md
+├── requirements.txt
+└── LICENSE
