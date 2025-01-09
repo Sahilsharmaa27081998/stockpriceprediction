@@ -1,0 +1,17 @@
+# Stock Price Prediction using Time-Series Forecasting
+
+This project predicts stock prices using historical data with ARIMA and LSTM models. It demonstrates the end-to-end process of loading data, preprocessing, model training, evaluation, and visualization.
+
+## **Technologies Used**
+- Python
+- TensorFlow/Keras
+- Pandas
+- Matplotlib
+- ARIMA (statsmodels)
+- LSTM
+
+## **How to Run the Project**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Stock_Price_Prediction.git
+   cd Stock_Price_Prediction
